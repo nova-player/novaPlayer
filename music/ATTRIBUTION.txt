@@ -1,0 +1,5 @@
+Nova Player Discover sample tracks (non-JS / offline fallback).
+
+Audio source: Mixkit Stock Music (https://mixkit.co/free-stock-music/)
+License: Mixkit Stock Music Free License (https://mixkit.co/license/#musicFree)
+Cover images: generated for Nova Player (not Mixkit assets).
